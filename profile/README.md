@@ -1,13 +1,16 @@
 # system build training kits and the base env
 
-## system build training 
+
+### system build training
+
+### base environment
 
 - [hands-on-base](https://github.com/sysbuild-training/hands-on-base)
     - environment prepared for [LPI Webinar (2024-06-08)](https://lpic-2024q2.demo.fml.org/)
     - docker-compose base
     
 
-### 改造の出発点として用いるもの
+### softoware used as the start line
 
 - [www.py](https://github.com/sysbuild-training/www.py)
     - I have used this software in my IT infrastructure exercises
